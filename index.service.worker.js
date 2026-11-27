@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795758762|3202851';
+const CACHE_VERSION = '1795760014|2923998';
 /** @type {string} */
 const CACHE_PREFIX = '재의 미궁 v2-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
